@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/business-app/static/css/main.dbb79c26.css",
-    "main.js": "/business-app/static/js/main.82305e2c.js",
+    "main.css": "/business-app/static/css/main.8c88b1a6.css",
+    "main.js": "/business-app/static/js/main.fd5dec31.js",
     "static/media/hero.jpg": "/business-app/static/media/hero.8562676a6412e9ec4644.jpg",
     "static/media/john-doe.png": "/business-app/static/media/john-doe.e4675f127b56d41e5c8a.png",
     "static/media/logo.png": "/business-app/static/media/logo.014fa922a0314801d50d.png",
     "index.html": "/business-app/index.html",
-    "main.dbb79c26.css.map": "/business-app/static/css/main.dbb79c26.css.map",
-    "main.82305e2c.js.map": "/business-app/static/js/main.82305e2c.js.map"
+    "main.8c88b1a6.css.map": "/business-app/static/css/main.8c88b1a6.css.map",
+    "main.fd5dec31.js.map": "/business-app/static/js/main.fd5dec31.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbb79c26.css",
-    "static/js/main.82305e2c.js"
+    "static/css/main.8c88b1a6.css",
+    "static/js/main.fd5dec31.js"
   ]
 }
